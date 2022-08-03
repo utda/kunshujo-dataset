@@ -8,7 +8,7 @@
 捃拾帖データセットは以下のURLから公開しています。<br/>
 現在(2022年8月3日)の最新バージョンは1.0です。<br/>
 
-https://drive.google.com/file/d/1SOtsM3WZtATAJsuooxF_LnM3-ojC8n-v/view?usp=sharing
+https://drive.google.com/file/d/1SOtsM3WZtATAJsuooxF_LnM3-ojC8n-v/view?usp=sharing （約7GB）
 
 <!-- COCO形式: -->
 
