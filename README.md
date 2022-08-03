@@ -1,7 +1,7 @@
-捃拾帖データセット
+捃拾帖レイアウトデータセット
 ==================
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)  
+[![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ## データセットの概要
 
@@ -32,7 +32,7 @@ https://drive.google.com/uc?id=1SOtsM3WZtATAJsuooxF_LnM3-ojC8n-v （約7GB）
   |12,124画像
 
 ### 1.3 データセットの権利
-「CC BY」&lt; https://creativecommons.org/licenses/by/4.0/deed.ja &gt;
+「CC0」&lt; https://creativecommons.org/publicdomain/zero/1.0/deed.ja &gt;
 
 捃拾帖データセットは、自由な二次利用が可能です。ただし、二次利用に際しては、次の事項へのご配慮をお願いいたします。これらのお願いは法的な契約ではありませんが、できる限りご留意の上でご利用くださるよう、ご協力をお願いします。
 
