@@ -6,7 +6,10 @@
 捃拾帖データセットは以下のURLから公開しています。<br/>
 現在(2022年8月3日)の最新バージョンは1.0です。<br/>
 
-- COCO形式: https://drive.google.com/file/d/1SOtsM3WZtATAJsuooxF_LnM3-ojC8n-v/view?usp=sharing
+https://drive.google.com/file/d/1SOtsM3WZtATAJsuooxF_LnM3-ojC8n-v/view?usp=sharing
+
+<!-- COCO形式: -->
+
 <!-- - YOLO形式: https://lab.ndl.go.jp/dataset/dataset_kindai.zip -->
 
 
@@ -23,7 +26,7 @@
 
   | 画像数
   |----------
-  |1,219画像
+  |12,124画像
 
 ### 1.3 データセットの権利
 「CC BY」&lt; https://creativecommons.org/licenses/by/4.0/deed.ja &gt;
