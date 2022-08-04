@@ -65,3 +65,11 @@ COCO形式でレイアウトの矩形情報とラベル名を記述したjsonを
   |0   | item       | 貼り込み資料
 
 <img src="images/0cd193243399f24e2d116d095794c152.jpg" alt="kunshujo sample image" title="screen shot">
+
+
+【アプリケーション例】
+----
+
+YOLOv5を用いて学習したモデルに基づく推論アプリケーションを公開しています。
+
+https://huggingface.co/spaces/nakamura196/yolov5-kunshujo
